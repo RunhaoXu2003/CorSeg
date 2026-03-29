@@ -45,11 +45,6 @@ Model weights and dependent application files are also availabel at: https://pan
 - **Bilingual** — English (`_en`) and Chinese (`_ch`) versions included
 - **JSON statistics report** for post-processing results
 
-<!-- 
-Uncomment and replace with your actual screenshot:
-![GUI Screenshot](assets/screenshot.png)
--->
-
 ---
 
 ## 中文说明
@@ -71,7 +66,7 @@ Uncomment and replace with your actual screenshot:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/CorSeg-CineSAX.git
+git clone https://github.com/RunhaoXu2003/CorSeg.git
 cd CorSeg-CineSAX
 ```
 
@@ -122,7 +117,7 @@ weights/
 └── best_model.pth
 ```
 
-> **Download Link:** [Google Drive / Baidu Netdisk — *replace with your actual link*]
+> **Download Link:** [https://pan.baidu.com/s/1BM9viKgzGoECovzjxbMgtg?pwd=4396] (You can also get it from releases)
 > 
 > The `.pth` file contains:
 > - `model_state_dict` — MedNeXt-L trained weights
