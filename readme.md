@@ -1,6 +1,6 @@
 Using deep learning to automatically segment cardiac magnetic resonance imaging. 
 
-Model weights and dependent application files are also availabel at: https://pan.baidu.com/s/1BM9viKgzGoECovzjxbMgtg?pwd=4396
+Model weights and independent application files (which can be used directly by clicking ".exe" file) are also availabel at: https://pan.baidu.com/s/1BM9viKgzGoECovzjxbMgtg?pwd=4396
 
 <div align="center">
 
