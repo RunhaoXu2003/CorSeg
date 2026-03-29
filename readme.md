@@ -67,7 +67,7 @@ Model weights and dependent application files are also availabel at: https://pan
 
 ```bash
 git clone https://github.com/RunhaoXu2003/CorSeg.git
-cd CorSeg-CineSAX
+cd CorSeg
 ```
 
 ### 2. Create Environment (Recommended)
