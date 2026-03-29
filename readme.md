@@ -351,8 +351,7 @@ MedNeXt-L with 224×224 input requires approximately **2–4 GB** GPU memory. An
 ## Citation
 
 If you use this tool in your research, please consider citing:
-
-```
+MedArxiv:
 
 ### Related Works
 
